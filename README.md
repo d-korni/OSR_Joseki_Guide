@@ -1,3 +1,8 @@
+The Open Study Room presents: 'An introductory guide to Joseki': 
+This repository contains the workings of the Joseki guide from the Open Study Room.
+Find out more about the Open Study Room on: https://openstudyroom.org/
+You can also join our Discord server here: https://discordapp.com/invite/b7meDjX
+
 Installation and working instructions (Windows 10, 64bit)
 
 1. Download and install MikTex 2.9 (https://miktex.org/download): This is the LaTeX distribution
